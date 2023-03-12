@@ -1,0 +1,237 @@
+nav{
+    width: 100%;
+    height: 80px;
+    background-color: grey;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.logo{
+    width:200px ;
+    float: left;
+}
+
+.nav-con{
+    width: 550px;
+    height: 50px;
+    float: right;
+    margin-top: 5px;
+}
+
+.nav-con ul{
+    list-style: none;
+}
+
+.nav-con li{
+    width: 110px;
+    height: 40px;
+    text-align: center;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    float: left;
+    margin-top: 4px;
+    border-radius: 5px;
+    margin-right: 10px;
+    background-color: white;
+    color: #2b2b2b;
+    text-align: center;
+}
+
+.nav-con li:hover{
+    background-color: #2b2b2b;
+    color: white;
+    cursor: pointer;
+   }
+
+header{
+    width: 100%;
+    height: 600px;
+    background-color: lightgrey;
+    padding-top: 150px;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+header h1{
+    font-size: 44px;
+}
+
+.col-12{
+    width: 100%;
+    height: 80px;
+    background-color: grey;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.image-square{
+    width: 80%;
+    height: 400px;
+    border-radius: 5px;
+    background-color: lightgrey;
+    margin: 0 auto;
+    margin-top: 50px;
+}
+
+.half{
+    padding-top:100px ;
+    padding-right:10% ;
+}
+
+.half p{
+    margin-top: 20px;
+}
+
+.half h2{
+    font-size: 25px;
+    font-style: italic;
+}
+ 
+.cta{
+    width: 200px;
+    height: 40px;
+    text-align: center;
+    padding-top: 7px;
+    font-weight: bold;
+    float: left;
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-right: 10px;
+    border: 2px solid #2b2b2b;
+    padding-top: 5px !important;
+ }
+ 
+    .cta:hover{
+        cursor: pointer;
+        background-color: #2b2b2b;
+        color: white;
+    }
+
+    .textbox{
+        text-align: center;
+        padding-top: 25px;
+        padding-left: 15%;
+        padding-right: 15%;
+    }
+    
+    .round-image{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        background-color: lightgrey;
+        margin: 0 auto;
+        margin-bottom: 10px;
+    }
+    
+    .btn{
+        width: 150px;
+        height: 35px;
+        background-color: #2b2b2b;
+        color: white;
+        border-radius: 5px;
+        padding-top: 5px;
+        margin:  0 auto;
+        margin-bottom: 40px;
+    }
+    
+    .btn:hover{
+       border: 2px solid #2b2b2b;
+       background-color: white;
+       color: #2b2b2b;
+       cursor: pointer;
+       padding-top: 3px;
+    }
+    
+    .section-heading{
+        text-align: center;
+        margin-top: 100px;
+    }
+    
+    footer{
+        width: 100%;
+        height: 140px;
+        background-color: #2b2b2b;
+        color: white;
+        padding-left: 10%;
+        padding-right: 10%;
+        padding-top: 50px;
+        padding-bottom: 20px;
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    ul a{
+        text-decoration: none;
+        color: #2b2b2b;
+    }
+
+    .active{
+        background-color: #2b2b2b;
+        color: white;
+    }
+
+
+    .square-pg-two{
+        width: 90%;
+        height: 350px;
+        border-radius: 5px;
+        background-color: lightgrey;
+        margin: 0 auto;
+        margin-top: 25px;
+    }
+    
+    .text-box-two p{
+        padding-left: 5%;
+        padding-right: 5%;
+    }
+
+    .dbl-50 p{
+        width: 80%;
+     }
+
+    .text-box-two h4{
+        margin-top: 20px;
+        margin-left: 20px;
+
+    }
+
+    .third-btn{
+        width: 150px;
+        height: 35px;
+        background-color: #2b2b2b;
+        color: white;
+        border-radius: 5px;
+        padding-top: 5px;
+        text-align: center;
+        margin-top: 20px;
+        margin-left: 20px;
+    }
+
+    .third-btn:hover{
+        border: 2px solid #2b2b2b;
+       background-color: white;
+       color: #2b2b2b;
+       cursor: pointer;
+       padding-top: 3px;
+    }
+
+    
+.dbl-50{
+    padding-left: 5%;
+}
+
+.image-pg2{
+    width: 100%;
+    height: 400px;
+    background-color: lightgray;
+    margin: 0 auto;
+    margin-top: 50px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
